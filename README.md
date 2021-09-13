@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Rishabh Rajput
+- 🎓 I am a student in Amrita University
+- 👀 I’m interested in Web Development and Data Science
+- 🌱 I’m currently learning Django
+- 📖 I like reading books especially about History
+- 💻 I also like watching Anime :)
